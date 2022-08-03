@@ -1,3 +1,8 @@
+variable "region" {
+    type = string
+    default = "sa-east-1"
+}
+
 # terraform {
 #   experiments = [module_variable_optional_attrs]
 # }
