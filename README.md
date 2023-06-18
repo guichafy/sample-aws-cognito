@@ -1,1 +1,1 @@
-# AwsSampleProject
+# Sample Aws Cognito
